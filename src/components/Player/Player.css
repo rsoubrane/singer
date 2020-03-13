@@ -1,0 +1,14 @@
+#vp-card {
+	width: 100%;
+}
+#vp-progress {
+	width: 80%;
+}
+
+.vp-avatar {
+	margin: 10 !important;
+	color: "#fff" !important;
+}
+.bg-secondary {
+	background-color: #f50057 !important;
+}
